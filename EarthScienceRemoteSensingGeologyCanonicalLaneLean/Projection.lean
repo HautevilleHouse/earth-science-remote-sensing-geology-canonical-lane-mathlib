@@ -1,0 +1,10 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.EarthScienceRemoteSensingGeologyCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace EarthScienceRemoteSensingGeologyCanonicalLaneLean
+
+def earthScienceProjection (x : EarthScienceAdmissibleClass) : EarthScienceAdmissibleClass := x
+
+end EarthScienceRemoteSensingGeologyCanonicalLaneLean
+end HautevilleHouse
